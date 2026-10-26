@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+*.pdf
+*.zip
+logs/
+qa/
+original/
+translated/
+pilot/
+status.json

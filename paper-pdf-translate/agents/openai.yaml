@@ -1,0 +1,3 @@
+interface:
+  display_name: "论文PDF中文翻译"
+  short_description: "批量下载学术论文并保留原版式和插图生成中文及双语PDF"
